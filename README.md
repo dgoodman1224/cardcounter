@@ -1,8 +1,6 @@
 # Cardcounter
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/cardcounter`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Welcome to cardcounter, a ruby gem to practice counting cards via the command line.  The gem allows you to choose how many decks to use, and how long to practice for.  There is also a 'boss' feature at the end to print out some git nonsense and makes it look like you are doing work.
 
 ## Installation
 
@@ -22,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Cardcounter is a command line tool, anytime that you have an open terminal just type cardcounter to begin
+
+	$ cardcounter
 
 ## Development
 
