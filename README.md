@@ -2,6 +2,8 @@
 
 Welcome to cardcounter, a ruby gem to practice counting cards via the command line.  The gem allows you to choose how many decks to use, and how long to practice for.  There is also a 'boss' feature at the end to print out some git nonsense and makes it look like you are doing work.
 
+I haven't written any ruby in a while so wanted to knock this out to get back into it.  Please contribute if you can think of any ways to improve it or make it better!
+
 ## Installation
 
 Add this line to your application's Gemfile:
