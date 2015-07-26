@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Work is overrated, learn how to gamble"
   spec.description   = "A gem to be able to practice counting cards via the command line"
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "http://rubygems.org/gems/cardcounter"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
