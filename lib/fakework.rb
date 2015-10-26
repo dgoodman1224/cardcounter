@@ -4,7 +4,7 @@ module FakeWork
 	puts '➜  repo.github.fake git:(development) ✗ git commit -m "User wants to get good at counting cards and become a millionaire"'
 	puts '[development 3a21d20] change file name'
 	puts '4 file changed, 75 insertions(+), 24 deletions(-)'
-	puts ' rename basic.html => bitch.html (100%)'
+	puts ' rename file.html => new_file_name.html (100%)'
 	puts '➜  repo.github.fake git:(development) git push origin development'
 	puts 'Counting objects: 6, done.'
 	puts 'Delta compression using up to 8 threads.'
